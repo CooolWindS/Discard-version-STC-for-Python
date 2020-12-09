@@ -1,0 +1,4 @@
+#!/bin/bash
+python embed_main.py
+python extract_main.py
+python compare_message.py

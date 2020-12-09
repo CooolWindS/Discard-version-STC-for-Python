@@ -1,0 +1,5 @@
+#!/bin/bash
+conda install opencv
+conda install Pillow
+conda install scipy
+conda install pycryptodome
