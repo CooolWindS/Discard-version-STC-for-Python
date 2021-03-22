@@ -1,8 +1,7 @@
 (Discard)Syndrome Trellis Codes for Python
+===
 
 [Please go new version for STC](https://github.com/CooolWindS/STC-for-python)
-
-===
 
 A simple way to use Syndrome Trellis Codes Steganography.
 Support linux system, but does not support windows system temporarily.
