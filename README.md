@@ -1,4 +1,4 @@
-Syndrome Trellis Codes for Python
+(Discard)Syndrome Trellis Codes for Python
 ===
 
 A simple way to use Syndrome Trellis Codes Steganography.
